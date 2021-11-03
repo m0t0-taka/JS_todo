@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+}
+
+li {
+  display: flex;
+  align-items: baseline;
+}
+
+li > p ,input,button{
+  margin: 10px;
+}
